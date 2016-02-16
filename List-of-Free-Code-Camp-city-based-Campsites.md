@@ -302,6 +302,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Halle](https://www.facebook.com/groups/free.code.camp.halle.saale/)
   - [Hamburg](https://www.facebook.com/groups/free.code.camp.hamburg/)
   - [Hamm](https://www.facebook.com/groups/free.code.camp.hamm/)
+  - [Hanover](https://www.facebook.com/groups/free.code.camp.hanover.germany/)
   - [Koblenz](https://www.facebook.com/groups/free.code.camp.koblenz/)
   - [Koeln](https://www.facebook.com/groups/free.code.camp.koeln/)
   - [Leipzig](https://www.facebook.com/groups/free.code.camp.leipzig/)
