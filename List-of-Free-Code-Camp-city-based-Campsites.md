@@ -945,6 +945,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - Kentucky
     - [Bowling Green](https://www.facebook.com/groups/free.code.camp.BG.kentucky/)
     - [Frankfort](https://www.facebook.com/groups/free.code.camp.frankfort.kentucky/)
+    - [Lexington](https://www.facebook.com/groups/free.code.camp.lexington/)
     - [Louisville](https://www.facebook.com/groups/free.code.camp.louisville/)
     - [Manchester](https://www.facebook.com/groups/free.code.camp.manchester.kentucky/)
   - Louisiana
@@ -969,7 +970,6 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - Massachusetts
     - [Boston](https://www.facebook.com/groups/free.code.camp.boston/)
     - [Cape Cod](https://www.facebook.com/groups/free.code.camp.cape.cod/)
-    - [Lexington](https://www.facebook.com/groups/free.code.camp.lexington/)
     - [Northampton](https://www.facebook.com/groups/free.code.camp.northampton.mass/)
     - [Pepperell](https://www.facebook.com/groups/free.code.camp.pepperell.ma/)
   - Michigan
